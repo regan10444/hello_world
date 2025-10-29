@@ -1,0 +1,12 @@
+{
+   
+    "configurations": [
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+             "console": "internalConsole"
+        }
+    ]
+}
